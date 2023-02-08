@@ -1,1 +1,1 @@
-My first readme
+If you want to die try alx internship
